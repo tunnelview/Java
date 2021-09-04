@@ -1,4 +1,4 @@
-package cp2406prac_02;
+package prac_02;
 
 /* Question - How many times(on AVERAGE) do you have to roll a pair of dice before they come up snake eyes?
         You could do the experiment by rolling the dice by hand.

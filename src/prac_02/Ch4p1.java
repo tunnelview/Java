@@ -1,4 +1,4 @@
-package cp2406prac_02;
+package prac_02;
 
 /* To "capitalize" a string means to change the first letter of each word in the string to upper case
 (if it is not already upper case). For example,

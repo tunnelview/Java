@@ -1,4 +1,4 @@
-package cp2406prac_02;
+package prac_02;
 
 
 /* Question - Write a program that reads one line of input text and breaks it up into words.

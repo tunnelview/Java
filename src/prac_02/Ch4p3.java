@@ -1,4 +1,4 @@
-package cp2406prac_02;
+package prac_02;
 
 /*Write a function that simulates rolling a pair of dice until the total on the dice comes up to be a given number.
 The number that you are rolling for is a parameter to the function.

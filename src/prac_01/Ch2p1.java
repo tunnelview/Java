@@ -1,4 +1,4 @@
-package cp2406_prac_01;
+package prac_01;
 
 public class Ch2p1 {
 

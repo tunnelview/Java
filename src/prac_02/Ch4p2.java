@@ -1,4 +1,4 @@
-package cp2406prac_02;
+package prac_02;
 
 
 

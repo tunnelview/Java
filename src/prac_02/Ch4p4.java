@@ -1,4 +1,4 @@
-package cp2406prac_02;
+package prac_02;
 
 /* Question - This exercise builds on Exercise 4.3. Every time you roll the dice repeatedly,
 trying to get a given total, the number of rolls it takes can be different.

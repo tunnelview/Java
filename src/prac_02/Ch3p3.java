@@ -1,4 +1,4 @@
-package cp2406prac_02;
+package prac_02;
 
 
 /* Question - Write a program that will evaluate simple expressions such as 17 + 3 and 3.14159 * 4.7.
