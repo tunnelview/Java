@@ -11,7 +11,7 @@ draw a black outline around each square. (My program also gives the square a ran
 Write a class to represent the data needed for drawing one square, and use an ArrayList to store the data for all the
 squares in the picture. If the user drags a square completely off the canvas, delete it from the list.*/
 
-/* "the whole code is copied from https://math.hws.edu/javanotes/c6/ex2-ans.html - 6.2 solution" */
+/*"the whole code is copied from https://math.hws.edu/javanotes/c6/ex2-ans.html - 6.2 solution" */
 
 import javafx.application.Application;
 import javafx.stage.Stage;
