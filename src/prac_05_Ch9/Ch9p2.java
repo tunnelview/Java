@@ -19,7 +19,7 @@ public class Ch9p2 {
         String outPath = "C:\\Users\\jc653691\\IdeaProjects\\prac_05\\src\\prac_05\\Ch9p2_text_out.txt";
 
         //File file = new File( // Was trying to get the pathname automatically, by pressing ALT + Enter; but couldn't
-        // copied the code from internet in the next line and automatically got "pathname"
+        // code from internet in the next line and automatically got "pathname"
         //pathname: C:\Users\jc653691\IdeaProjects\prac_05\src\Ch9p2.java); // error line
 
         //File file = new File(

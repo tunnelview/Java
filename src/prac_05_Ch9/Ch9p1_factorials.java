@@ -33,8 +33,7 @@ public class Ch9p1_factorials {
         // left blank (or between line 26 and 28
         //BigInteger n = new BigInteger("2"); Tested it with 2, got correct results
         //BigInteger n = new BigInteger(""); Tested it with 3, got correct results
-        //BigInteger n = new BigInteger("4"); Tested it with 4, got (n) = 5; incorrect
-        // later googled and found that fibonacci for 4 is 5. Correct solution
+        //BigInteger n = new BigInteger("4"); Tested it with 4, got (n) = 5;
         BigInteger n = new BigInteger("4");
         System.out.println("factorial n!=" + factorial(n));
         System.out.println("fibonacci (n)=" + fibonacci(n));
