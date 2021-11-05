@@ -51,7 +51,7 @@ public class Ch10p1_phoneDir {
     }
 
     public static String getNumber(String name) {
-        PhoneEntry item = find(name);
+        PhoneEntry item = find(name); // find the name if item is equal to null
         if (item == null) {
             return null;
         }
